@@ -1,4 +1,7 @@
 CODE CAMP -- WEB
+
+---------------------
+http://163.5.245.20/~wieser_f/drupal/www/index_init.php
 ---------------------
 Organisation: Prep'ETNA
 Delay: one week
